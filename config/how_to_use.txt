@@ -1,0 +1,3 @@
+To apply our KoovaKs configuration preset, just move and overwrite your configs with our PrimaryUserSettings.json located in:
+
+C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames
